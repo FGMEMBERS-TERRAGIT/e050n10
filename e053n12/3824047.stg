@@ -1,0 +1,5 @@
+OBJECT_SHARED Models/Airport/ndb.ac 53.907967 12.630219 32.15 180
+OBJECT_SHARED Models/Airport/tower.xml 53.9090869 12.6281904 32.98 335.6
+OBJECT_SHARED Models/Boundaries/wall25m-BrickOld.xml 53.9090641 12.6287516 32.26 68
+OBJECT_SHARED Models/Commercial/bank-building.ac 53.9089109 12.6277091 33.62 336
+OBJECT_SHARED Models/Commercial/bank-building.ac 53.9089565 12.6276882 33.64 336
